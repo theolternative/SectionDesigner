@@ -8,7 +8,8 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface sectionDesignerDocument : NSPersistentDocument {
+@interface sectionDesignerDocument : NSPersistentDocument 
+{
 @private
 
 }
