@@ -37,20 +37,20 @@
 		D169F454136C423500CF8C8A /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		D169F455136C423500CF8C8A /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		D169F456136C423500CF8C8A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		D169F459136C423500CF8C8A /* SectionDesigner-Info.plist */ = {isa = PBXFileReference; path = "SectionDesigner-Info.plist"; sourceTree = "<group>"; };
+		D169F459136C423500CF8C8A /* SectionDesigner-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SectionDesigner-Info.plist"; sourceTree = "<group>"; };
 		D169F45B136C423500CF8C8A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D169F45D136C423500CF8C8A /* SectionDesigner-Prefix.pch */ = {isa = PBXFileReference; path = "SectionDesigner-Prefix.pch"; sourceTree = "<group>"; };
+		D169F45D136C423500CF8C8A /* SectionDesigner-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SectionDesigner-Prefix.pch"; sourceTree = "<group>"; };
 		D169F45E136C423500CF8C8A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D169F461136C423500CF8C8A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		D169F463136C423500CF8C8A /* sectionDesignerDocument.h */ = {isa = PBXFileReference; path = sectionDesignerDocument.h; sourceTree = "<group>"; };
+		D169F463136C423500CF8C8A /* sectionDesignerDocument.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sectionDesignerDocument.h; sourceTree = "<group>"; };
 		D169F464136C423500CF8C8A /* sectionDesignerDocument.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sectionDesignerDocument.m; sourceTree = "<group>"; };
 		D169F467136C423500CF8C8A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/sectionDesignerDocument.xib; sourceTree = "<group>"; };
 		D169F46A136C423500CF8C8A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		D169F46D136C423500CF8C8A /* sectionDesignerDocument.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = sectionDesignerDocument.xcdatamodel; sourceTree = "<group>"; };
 		D169F474136C423500CF8C8A /* SectionDesignerTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SectionDesignerTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D169F47A136C423500CF8C8A /* SectionDesignerTests-Info.plist */ = {isa = PBXFileReference; path = "SectionDesignerTests-Info.plist"; sourceTree = "<group>"; };
+		D169F47A136C423500CF8C8A /* SectionDesignerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SectionDesignerTests-Info.plist"; sourceTree = "<group>"; };
 		D169F47C136C423500CF8C8A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D169F47E136C423500CF8C8A /* SectionDesignerTests-Prefix.pch */ = {isa = PBXFileReference; path = "SectionDesignerTests-Prefix.pch"; sourceTree = "<group>"; };
+		D169F47E136C423500CF8C8A /* SectionDesignerTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SectionDesignerTests-Prefix.pch"; sourceTree = "<group>"; };
 		D169F47F136C423500CF8C8A /* SectionDesignerTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SectionDesignerTests.h; sourceTree = "<group>"; };
 		D169F481136C423500CF8C8A /* SectionDesignerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SectionDesignerTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
